@@ -1,0 +1,11 @@
+cd changes working directory to path entered
+ls lists directory content
+mkdir makes directory
+rmdir removes empty directory
+touch creates blank file
+cp = copy
+mv = move
+rm = remove
+cd = home directory
+pwd = present working directory
+file = tells file type

@@ -1,0 +1,6 @@
+git add <file> adds any changes inside file to staging area
+git commit -m commits staging area repository with an added message
+git clone clones remote repository to your desktop
+git push pushes local repository to remote repository
+git status -v shows which files are in the staging area
+git merge merges branches
